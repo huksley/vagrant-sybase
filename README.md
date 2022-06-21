@@ -14,7 +14,7 @@ Installs and configures ready to use developer version of Sybase ASE.
 
 ## Usage
 
-  * Copy ASE_Suite.linuxamd64.tgz into folder (you can obtain it from http://www.sap.com/community/topic/ase.html)
+  * Copy ASE_Suite.linuxamd64.tgz into the folder you are going to use (you can obtain it from http://www.sap.com/community/topic/ase.html) or http://repository.transtep.com/repository/thirdparty/sybase/ASE16SP02/
   * ```git clone https://github.com/huksley/vagrant-sybase```
   * ```cd vagrant-sybase```
   * ```vagrant up```
